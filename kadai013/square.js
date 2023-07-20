@@ -1,5 +1,5 @@
 const clac =(price)=>{
-  return price **3;
+  return price **2;
 }
 
 console.log(clac(50));
